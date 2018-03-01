@@ -4,6 +4,6 @@ project(tw_tests)
 
 set(header_dir ../headers)
 
-add_executable(seqlist_test,SeqListTest.cpp)
+add_executable(seqlist_test SeqListTest.cpp)
 include_directories(seqlist_test ${header_dir})
 
