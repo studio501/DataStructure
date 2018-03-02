@@ -9,3 +9,4 @@ CMakeCache.txt
 /*.dir/
 *.opendb
 *.db
+/.vs/
